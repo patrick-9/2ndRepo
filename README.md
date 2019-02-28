@@ -1,2 +1,2 @@
 # 2ndRepo
-continuing the PS GitHub Fundamentals course
+continuing the PluralSight GitHub Fundamentals course
